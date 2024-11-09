@@ -1,0 +1,9 @@
+<<<<<<< HEAD
+database_test.sqlite
+node_modules/
+coverage/
+=======
+node_modules
+coverage
+.idea
+>>>>>>> 516cda3d0331245bd50689339260e1484d30111a
